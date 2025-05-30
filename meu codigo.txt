@@ -3,3 +3,5 @@ Olá, meu nome é Claudio Ricardo Guimarães, aluno do curso Téc Análise e Des
 https://github.com/claudioguima/Estudo-Dirigido/tree/master (criei meu primeiro repositório)
 
 Olá eu sou uma nova linha.
+
+Olá, meu nome é Claudio Ricardo Guimarães Fontoura
