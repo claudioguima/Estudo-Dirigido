@@ -1,2 +1,2 @@
 # Estudo-Dirigido
-Tutorial de como usar o git cria pelo por usuário youtube
+Tutorial de como usar o git criado pelo por usuário youtube
